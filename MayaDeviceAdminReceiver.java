@@ -1,0 +1,1 @@
+package com.maya.ai; import android.app.admin.DeviceAdminReceiver; public class MayaDeviceAdminReceiver extends DeviceAdminReceiver {}
